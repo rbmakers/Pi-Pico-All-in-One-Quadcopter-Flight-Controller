@@ -1,5 +1,6 @@
 # Quadcopter Flight Controller Methodologies: SE(3), SMC, and PID
-<img width="841" height="825" alt="image (3)" src="https://github.com/user-attachments/assets/65aa9e02-98ea-4076-ae10-ac645492255f" /> <img width="823" height="835" alt="image (4)" src="https://github.com/user-attachments/assets/eae1c13a-b780-4f2a-a66d-1c2cff4b2de0" />
+<img width="841" height="825" alt="image (3)" src="https://github.com/user-attachments/assets/65aa9e02-98ea-4076-ae10-ac645492255f" /  width="48"> 
+<img width="823" height="835" alt="image (4)" src="https://github.com/user-attachments/assets/eae1c13a-b780-4f2a-a66d-1c2cff4b2de0" /  width="48">
 
 ## Introduction
 
