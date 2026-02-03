@@ -5,7 +5,7 @@
 This is a **dual-loop geometric flight controller** implementing SE(3) (Special Euclidean Group) control for quadcopter drones. Unlike traditional PID controllers that work in Euler angle space, this controller respects the geometric structure of rotations on the SO(3) manifold, providing superior performance and avoiding singularities.
 
 ### Hardware Platform
-- **MCU**: Raspberry Pi RP2040 (RB FALCON RF Controller)
+- **MCU**: Raspberry Pi RP2040
 - **IMU**: LSM9DS1TR 9-DOF sensor (I2C)
 - **Radio**: NRF24L01P-R 2.4GHz transceiver (SPI)
 - **Motor Drivers**: STT6N3LH6 N-channel MOSFETs (PWM control)
