@@ -1,5 +1,4 @@
 # RP2040 Flight Controller : SE(3), SMC, and PID
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/27de842d-1a29-4183-b1dd-23ea2e05cf41" />
 <img width="1031" height="485" alt="image (1)" src="https://github.com/user-attachments/assets/a14b6ce4-c492-4d2d-8a84-a6797019b78e" />
 
 ## Introduction
