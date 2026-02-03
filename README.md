@@ -7,7 +7,7 @@ This document provides a comprehensive comparison of three advanced flight contr
 ### Platform Overview
 
 **Hardware:**
-- **MCU**: Raspberry Pi RP2040 (RB FALCON)
+- **MCU**: Raspberry Pi RP2040
 - **IMU**: LSM9DS1TR 9-DOF sensor (I2C)
 - **Radio**: NRF24L01P-R (SPI)
 - **Motors**: N-MOSFET PWM drivers
